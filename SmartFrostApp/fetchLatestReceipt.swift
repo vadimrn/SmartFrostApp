@@ -29,4 +29,4 @@ func fetchLatestReceipt() {
 
     task.resume()
 }
-4
+
