@@ -17,6 +17,7 @@
 		272073722BA8BE0D002067DE /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 272073712BA8BE0D002067DE /* Product.swift */; };
 		272073742BA8BE4C002067DE /* ViewModel .swift in Sources */ = {isa = PBXBuildFile; fileRef = 272073732BA8BE4C002067DE /* ViewModel .swift */; };
 		272073762BA8BE94002067DE /* ProductListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 272073752BA8BE94002067DE /* ProductListViewController.swift */; };
+		279660F22C20A522009F646A /* spm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 279660F12C20A522009F646A /* spm.swift */; };
 		27A1A9B72BC5B65500CA404A /* VNDocumentCameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27A1A9B62BC5B65500CA404A /* VNDocumentCameraViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -33,6 +34,7 @@
 		272073712BA8BE0D002067DE /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 		272073732BA8BE4C002067DE /* ViewModel .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewModel .swift"; sourceTree = "<group>"; };
 		272073752BA8BE94002067DE /* ProductListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductListViewController.swift; sourceTree = "<group>"; };
+		279660F12C20A522009F646A /* spm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = spm.swift; sourceTree = "<group>"; };
 		27A1A9B62BC5B65500CA404A /* VNDocumentCameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VNDocumentCameraViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -74,6 +76,7 @@
 				272073752BA8BE94002067DE /* ProductListViewController.swift */,
 				27189F2E2BBAEA4600192A43 /* fetchLatestReceipt.swift */,
 				27A1A9B62BC5B65500CA404A /* VNDocumentCameraViewController.swift */,
+				279660F12C20A522009F646A /* spm.swift */,
 				272073632BA8BDE8002067DE /* Main.storyboard */,
 				272073662BA8BDEA002067DE /* Assets.xcassets */,
 				272073682BA8BDEA002067DE /* LaunchScreen.storyboard */,
@@ -154,6 +157,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				272073622BA8BDE8002067DE /* ViewController.swift in Sources */,
+				279660F22C20A522009F646A /* spm.swift in Sources */,
 				272073722BA8BE0D002067DE /* Product.swift in Sources */,
 				27A1A9B72BC5B65500CA404A /* VNDocumentCameraViewController.swift in Sources */,
 				2720735E2BA8BDE8002067DE /* AppDelegate.swift in Sources */,
